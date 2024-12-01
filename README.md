@@ -33,14 +33,16 @@ Exploración de datos (EDA): Análisis estadístico y visualización de datos pa
 Modelos entrenados:  
 - Support Vector Machine (SVM): Mejor modelo con un accuracy del 81.76%.  
 - K-Nearest Neighbors (KNN): Accuracy del 77.78%.  
-Reducción de dimensionalidad: Uso de PCA para evaluar impacto en el rendimiento. Resultado final del modelo con PCA: accuracy de 78.7%.  
 Evaluación:  
 - Matriz de confusión.  
-- Curvas ROC.
+- Curvas ROC.  
+  
+Reducción de dimensionalidad: Uso de PCA para evaluar impacto en el rendimiento. Resultado final del modelo con PCA: accuracy de 78.7%.  
 
 # Estructura del proyecto
 - clusterai_francisco_lavaggi_eda.ipynb: Notebook para el Análisis Exploratorio de Datos (EDA) y preprocesamiento.  
 - clusterai_francisco_lavaggi_machine_learning.ipynb: Notebook con el desarrollo, pruebas y evaluación del modelo de Machine Learning.
+- clusterai_francisco_lavaggi_completo.ipynb: Notebook combinado con EDA y Machine Learning
 
 # Ejemplo de uso
 Ejecuta los notebooks en cualquier entorno compatible con Jupyter Notebook (por ejemplo, Jupyter Lab o Google Colab).
